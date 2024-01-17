@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "QuantRegGLasso"]
+	path = QuantRegGLasso
+	url = https://github.com/egpivo/quantregglasso
 [submodule "SpatMCA"]
 	path = SpatMCA
 	url = https://github.com/egpivo/spatmca
